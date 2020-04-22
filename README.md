@@ -12,11 +12,7 @@ Web development III, examples and projects.
 
 ## Authors
 
-<<<<<<< HEAD
-* **Renata Pithan** - *Student* - [RenataPithan](https://github.com/RenataPithan)
-=======
 * **Renata Pithan** - *Student and Digital Artist* - [RenataPithan](https://github.com/RenataPithan)
->>>>>>> 890a847e6d7e220565d50f95d75caffaeac95042
 
 ![GitHub Logo](/git.png)
 
