@@ -14,7 +14,7 @@ Web development III, examples and projects.
 
 * **Renata Pithan** - *Student and Digital Artist* - [RenataPithan](https://github.com/RenataPithan)
 
-![GitHub Logo](/git.png)
+![GitHub Logo](/git2.png)
 
 ## License
 
